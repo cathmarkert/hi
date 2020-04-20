@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(211, 241, 211);
+}
+#botao{
+    background-color: rgb(80, 179, 80);
+}
+#playlist:hover{
+    text-decoration: none;
+}
+#about{
+    color: green;
+    font-family: sans-serif;
+    font-size: 50px;
+}
